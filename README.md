@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ChristianEspinal/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ChristianEspinal/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [VPN Setup and Usage within Azure](https://github.com/ElijahWinfield/vpn-setup)
+  - [VPN Setup and Usage within Azure](https://github.com/ChristianEspinal/vpn-setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ElijahWinfield/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
