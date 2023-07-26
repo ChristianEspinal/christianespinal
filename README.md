@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian, an <a href="https://www.linkedin.com/in/christian-espinal-1521b9175/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christian, an <a href="https://www.linkedin.com/in/ChristianEspinal23">IT Professional</a>☺</h1>
 
 
 
@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/christian-espinal-1521b9175/
+[linkedin]: https://www.linkedin.com/in/ChristianEspinal23
 
