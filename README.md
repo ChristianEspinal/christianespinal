@@ -14,6 +14,7 @@
   - [VPN Setup and Usage within Azure](https://github.com/ChristianEspinal/vpn-setup)
 - <b>SQL</b>
   - [Applied SQL Filters](https://github.com/ChristianEspinal/SQL-Filters)
+  - [Employee Management Database](https://github.com/ChristianEspinal/SQL-Filters)
 
 <h2>🤳Connect with me:</h2>
 
