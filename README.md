@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ChristianEspinal/azure-network-protocols)
   - [VPN Setup and Usage within Azure](https://github.com/ChristianEspinal/vpn-setup)
 - <b>SQL</b>
-  [VPN Setup and Usage within Azure](https://github.com/ChristianEspinal/vpn-setup)
+  - [Applied SQL Filters](https://github.com/ChristianEspinal/SQL-Filters)
 
 <h2>🤳Connect with me:</h2>
 
