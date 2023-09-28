@@ -12,8 +12,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ChristianEspinal/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ChristianEspinal/azure-network-protocols)
   - [VPN Setup and Usage within Azure](https://github.com/ChristianEspinal/vpn-setup)
-- <b>SQL</b>
-  - [Employee Management Database](https://github.com/ChristianEspinal/Employee-Management-Database/tree/main)
+
 
 <h2>🤳Connect with me:</h2>
 
