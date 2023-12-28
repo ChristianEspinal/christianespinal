@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 SQL Projects:</h2>
 
-- [SQL Portfolio](https://github.com/ChristianEspinal/SQL)
+- [Superstore Database](https://github.com/ChristianEspinal/SQL/blob/main/Superstore%20Database)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
