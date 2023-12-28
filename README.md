@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian, an <a href="https://www.linkedin.com/in/ChristianEspinal23">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christian, an <a href="https://www.linkedin.com/in/ChristianEspinal23">IT/Data Analyst Professional</a>☺</h1>
 
 <h2>👨‍💻 SQL Projects:</h2>
 
