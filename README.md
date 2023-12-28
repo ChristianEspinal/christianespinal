@@ -1,7 +1,7 @@
 <h1>Hi, I'm Christian, an <a href="https://www.linkedin.com/in/ChristianEspinal23">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 SQL Projects:</h2>
-<b>SQL Portfolio</b>
+
 - [SQL Portfolio](https://github.com/ChristianEspinal/SQL)
 
 
