@@ -1,7 +1,8 @@
 <h1>Hi, I'm Christian, an <a href="https://www.linkedin.com/in/ChristianEspinal23">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 SQL Projects:</h2>
- - [osTicket: Prerequisites and Installation](https://github.com/ChristianEspinal/osticket-prereqs)
+<b>SQL Portfolio</b>
+- [SQL Portfolio](https://github.com/ChristianEspinal/SQL)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -14,6 +15,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ChristianEspinal/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ChristianEspinal/azure-network-protocols)
   - [VPN Setup and Usage within Azure](https://github.com/ChristianEspinal/vpn-setup)
+  - [SQL Portfolio](https://github.com/ChristianEspinal/SQL)
 
 
 <h2>🤳Connect with me:</h2>
