@@ -3,6 +3,7 @@
 <h2>👨‍💻 SQL Projects:</h2>
 
 - [Superstore Database](https://github.com/ChristianEspinal/SQL/blob/main/Superstore%20Database)
+- [Fortune 500 Analysis](https://github.com/ChristianEspinal/SQL/blob/main/Fortune%20500%20Analysis)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
