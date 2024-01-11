@@ -6,7 +6,7 @@
 - [Fortune 500 Analysis](https://github.com/ChristianEspinal/SQL/blob/main/Fortune%20500%20Analysis)
 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ChristianEspinal/osticket-prereqs)
