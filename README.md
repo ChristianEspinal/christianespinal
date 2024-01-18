@@ -4,6 +4,7 @@
 
 - [Superstore Database](https://github.com/ChristianEspinal/SQL/blob/main/Superstore%20Database)
 - [Fortune 500 Analysis](https://github.com/ChristianEspinal/SQL/blob/main/Fortune%20500%20Analysis)
+- [Famous Actors](https://github.com/orelem/SQL/blob/main/Famous%20Actors%20Analysis)
 
 
 <h2>👨‍💻 IT Projects:</h2>
