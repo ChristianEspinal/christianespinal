@@ -7,6 +7,7 @@
 - [Famous Actors](https://github.com/orelem/SQL/blob/main/Famous%20Actors%20Analysis)
 - [Netflix Analytics (SQL Fiddle)](https://github.com/ChristianEspinal/SQL/blob/main/Netflix%20Analytics%20(SQL%20Fiddle))
 - [Customer & Order Analytics](https://github.com/ChristianEspinal/SQL/blob/main/Customer%20%26%20Order%20Analytics)
+- [Spotify Analytics](https://github.com/ChristianEspinal/SQL/blob/main/Spotify%20Analytics)
 
 
 <h2>👨‍💻 IT Projects:</h2>
